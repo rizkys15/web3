@@ -18,4 +18,4 @@ Berikut merupakan pseudocodenya
 ![gambar 1](screenshot/ss1.png)
 
 dan berikut ini merupakan tampilan proses push data ke repository github
-![gambar 2](screenshoot/ss2.png)
+![gambar 2](screenshot/ss2.png)
