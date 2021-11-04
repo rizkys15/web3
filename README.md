@@ -16,3 +16,5 @@ Dalam rumus luas dan keliling saya menggunakan perintah "math.pi" untuk menyerta
 Selanjutnya tambahkan fungsi "Print()" untuk menampilkan data tesebut. di dalam print saya memasukan syntax "\t", syntax tersebut merupakan karakter espace yang memiliki fungsi untuk membuat tab.
 Berikut merupakan pseudocodenya
 
+dan berikut ini merupakan tampilan proses push data ke reository github
+
